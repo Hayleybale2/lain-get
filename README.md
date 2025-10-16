@@ -32,3 +32,4 @@ lget -c8 rec/147 -f{png,jpg}
 * [wizchan](https://wizchan.org)
 * [arisuchan](https://arisuchan.jp/)
 * [8chan](https://8ch.net/)
+* [CRBAchan](https://ib.crba.dedyn.io)
