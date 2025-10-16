@@ -44,6 +44,7 @@ static std::map<std::string, Chan> cmap = boost::assign::map_list_of
         ("wiz",     Chan ("https://wizchan.org",        true) ) 
         ("arisu",   Chan ("https://arisuchan.jp",       true) ) 
         ("8",       Chan ("https://8ch.net",            true) ) 
+        ("crba",    Chan ("https://ib.crba.dedyn.io",   true) ) 
         ;
 
 // function declarations
